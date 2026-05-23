@@ -134,7 +134,7 @@ CodeAlpha_StockPortfolioTracker/
 
 ## 👨‍💻 Author
 
-- **Name:** Your Name
+- **Name:** Maha faheem Bhatti
 - **Internship:** CodeAlpha Python Programming Internship
 - **LinkedIn:** [http://linkedin.com/in/maha-faheem-635903375/](url)
 - **GitHub:**[ https://github.com/MahaFaheem785](url)
